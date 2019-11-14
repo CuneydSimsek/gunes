@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.mycompany.tests.LoginTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 45.321 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 36.04 sec
